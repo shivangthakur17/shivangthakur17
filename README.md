@@ -56,7 +56,7 @@ Prisma and modern responsive UI design.
 
 ## Connect With Me
 
-LinkedIn: [Shivang Thakur]((https://www.linkedin.com/in/shivang-thakur-ba6853253/))
+LinkedIn: [Shivang Thakur](https://www.linkedin.com/in/shivang-thakur-ba6853253/)
 
 Portfolio: [shivang-portfolio](https://shivang-portfolio-psi.vercel.app/)
 
